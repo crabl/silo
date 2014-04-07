@@ -11,9 +11,9 @@ If you wish to run the application on Windows startup, place a shortcut to `runs
 
 ### Commands
 `<amount>` below denotes the amount of time (measured in ms) for which to move the turret.
-* `/left/?amount=<amount>`: Move the turret left
-* `/right/?amount=<amount>`: Move the turret right
-* `/up/?amount=<amount>`: Move the turret up
-* `/down/?amount=<amount>`: Move the turret down
-* `/fire/`: Fire a missile
-* `/reset/`: Reset the launcher and turret to their starting positions
+* `/left/?amount=<amount>` Move the turret left
+* `/right/?amount=<amount>` Move the turret right
+* `/up/?amount=<amount>` Move the turret up
+* `/down/?amount=<amount>` Move the turret down
+* `/fire/` Fire a missile
+* `/reset/` Reset the launcher and turret to their starting positions
